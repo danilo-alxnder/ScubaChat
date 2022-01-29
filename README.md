@@ -6,15 +6,16 @@ Welcome to the README of the Scuba chat application, a fully distributed multi-h
 * The system allows messages up to 96 bytes using multi hop forwarding
 * A forwarding table manages coallision of messages
 * FIFO queing is used to deliver messages
-* The application interface requires you to input
- _username_
+* The application interface requires you to input `username`
 
 
 ### Running the application
 1. To run ScubaChat you need an IDE. In this project, Visual Studio was used.
 2. In your project include all folders of this repository
-3. To test main.cpp, acces to [link] (http://netsys.ewi.utwente.nl/integrationproject/) and choose a frequency [1 1000]
-4. Make sure you include this frequency in 
+3. To test main.cpp, acces to [netsys.ewi.utwente](http://netsys.ewi.utwente.nl/integrationproject) and choose a preferable frequency
+4. In main.cpp make sure you include this number in `FREQUENCY`
+
+
 
 ## Demo
 When properly 
