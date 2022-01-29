@@ -29,7 +29,7 @@ In windows terminal, you can see a demostration when 3 users (Danilo, Hussain & 
 - When coallision is encounter first come first serve.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151673076-8e338aa8-2f2e-460b-a8cf-0d0a60a238de.png" width ="950">
+<img src="https://user-images.githubusercontent.com/70687643/151674647-643d7b19-3894-4ae4-895f-a33981bc8cf9.png" width ="950">
 </p>
 
 
